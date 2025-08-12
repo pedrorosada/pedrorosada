@@ -1,6 +1,5 @@
 ## Oi Pedro lindao 👋
 meu nome é pedro, estudo no colegio JK e sou do 1A ⚽
-<div class="tenor-gif-embed" data-postid="8440685405279941522" data-share-method="host" data-aspect-ratio="0.634538" data-width="100%"><a href="https://tenor.com/view/hodl-meme-crypto-gif-8440685405279941522">Hodl Meme GIF</a>from <a href="https://tenor.com/search/hodl-gifs">Hodl GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **pedrorosada/pedrorosada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
